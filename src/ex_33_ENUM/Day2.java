@@ -1,0 +1,6 @@
+package ex_33_ENUM;
+
+public enum Day2 {
+
+    SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
+}
