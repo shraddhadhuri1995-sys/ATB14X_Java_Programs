@@ -1,7 +1,6 @@
-package ex_37_CollectionFramework;
+package ex_37_CollectionFramework.List;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
